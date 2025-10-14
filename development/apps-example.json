@@ -2,5 +2,49 @@
   {
     "url": "https://github.com/frappe/erpnext.git",
     "branch": "version-15"
+  },
+  {
+    "url": "https://github.com/emotivesoftware/emotive_app.git",
+    "branch": "develop"
+  },
+  {
+    "url": "https://github.com/The-Commit-Company/commit.git",
+    "branch": "main"
+  },
+  {
+    "url": "https://github.com/agritheory/check_run.git",
+    "branch": "version-15"
+  },
+  {
+    "url": "https://github.com/emotivesoftware/document_manager.git",
+    "branch": "main"
+  },
+  {
+    "url": "https://github.com/emotivesoftware/emotive_reporting.git",
+    "branch": "main"
+  },
+  {
+    "url": "https://github.com/frappe/hrms.git",
+    "branch": "version-15"
+  },
+  {
+    "url": "https://github.com/frappe/insights.git",
+    "branch": "develop"
+  },
+  {
+    "url": "https://github.com/frappe/payments.git",
+    "branch": "version-15"
+  },
+  {
+    "url": "https://github.com/frappe/print_designer.git",
+    "branch": "develop"
+  },
+  {
+    "url": "https://github.com/The-Commit-Company/raven.git",
+    "branch": "develop"
+  },
+  {
+    "url": "https://github.com/The-Commit-Company/frappe-types.git",
+    "branch": "main"
   }
 ]

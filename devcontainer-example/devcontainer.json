@@ -1,6 +1,6 @@
 {
   "name": "Frappe Bench",
-  "forwardPorts": [8000, 9000, 6787],
+  "forwardPorts": [8000, 9000, 6787, 8002, 8080],
   "remoteUser": "frappe",
   "customizations": {
     "vscode": {
@@ -9,7 +9,11 @@
         "ms-vscode.live-server",
         "grapecity.gc-excelviewer",
         "mtxr.sqltools",
-        "visualstudioexptteam.vscodeintellicode"
+        "visualstudioexptteam.vscodeintellicode",
+        "eamodio.gitlens",
+        "dbaeumer.vscode-eslint",
+        "christian-kohler.path-intellisense",
+        "esbenp.prettier-vscode"
       ],
       "settings": {
         "terminal.integrated.profiles.linux": {
